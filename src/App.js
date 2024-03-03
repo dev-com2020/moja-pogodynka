@@ -1,11 +1,11 @@
 import './App.css';
 import React from 'react'
-import WeatherApp from './pogodynka/WeatherApp';
+import Weather from './pogodynka/Wheater';
 
 function App() {
   return (
     <div className="App">
-     <WeatherApp/>
+     <Weather/>
     </div>
   );
 }
